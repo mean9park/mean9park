@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mean9park
-- 👀 I’m interested in General AI Accelerator, ViT, Fault tolerance
-
+- 👀 I’m interested in General AI Accelerator, Model Comprssion for AI Network, ViT, Fault tolerance
 
 - 📫 How to reach me : celion@yonsei.ac.kr
 
